@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/Ron-Caster/obsidian.git",
+  "remoteURL": "git@github.com:Ron-Caster/obsidian.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true
